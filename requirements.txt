@@ -1,0 +1,5 @@
+Python ≥ 3.8
+PyTorch ≥ 1.10
+DGL ≥ 0.9
+RDKit
+NumPy, SciPy, scikit-learn
