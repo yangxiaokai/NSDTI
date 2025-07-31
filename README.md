@@ -27,3 +27,7 @@ We recommend using `conda`:
 conda create -n nsdti python=3.8
 conda activate nsdti
 pip install -r requirements.txt
+
+2. Train the Model
+cd code
+python train.py --config config_biosnap.yaml
